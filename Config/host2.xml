@@ -1,0 +1,10 @@
+<Config>
+  <Host1>172.16.222.34</Host1>
+  <Host3>188.88.141.12</Host3>
+  <Host4>119.44.155.20</Host4>
+  <cloudIP>127.0.0.1</cloudIP>
+  <cloudPort>1234</cloudPort>
+  <addressIP>172.13.222.33</addressIP>
+  <hostName>H2</hostName>
+  <outPort>202</outPort>
+</Config>

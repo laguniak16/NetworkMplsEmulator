@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Cloud",
+      "appliesTo": "Cloud/Cloud/Cloud.cs",
+      "type": "launch"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Client",
+    "\\Client\\Client",
+    "\\Cloud",
+    "\\Cloud\\Cloud",
+    "\\Config",
+    "\\Manager",
+    "\\Manager\\Manager",
+    "\\NetworkNode",
+    "\\NetworkNode\\NetworkNode"
+  ],
+  "SelectedNode": "\\Cloud\\Cloud\\Cloud.csproj",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,16 @@
+C:\Users\Joseph\Documents\GitHub\tsst\Cloud\Cloud\bin\Release\Tsst.exe.config
+C:\Users\Joseph\Documents\GitHub\tsst\Cloud\Cloud\bin\Release\Tsst.exe
+C:\Users\Joseph\Documents\GitHub\tsst\Cloud\Cloud\bin\Release\Tsst.pdb
+C:\Users\Joseph\Documents\GitHub\tsst\Cloud\Cloud\obj\Release\Cloud.Form1.resources
+C:\Users\Joseph\Documents\GitHub\tsst\Cloud\Cloud\obj\Release\Tsst.Properties.Resources.resources
+C:\Users\Joseph\Documents\GitHub\tsst\Cloud\Cloud\obj\Release\Cloud.csproj.GenerateResource.cache
+C:\Users\Joseph\Documents\GitHub\tsst\Cloud\Cloud\obj\Release\Tsst.exe
+C:\Users\Joseph\Documents\GitHub\tsst\Cloud\Cloud\obj\Release\Tsst.pdb
+C:\Users\piotr\Desktop\Nowy folder (4)\tsst1\Cloud\Cloud\bin\Release\Tsst.exe.config
+C:\Users\piotr\Desktop\Nowy folder (4)\tsst1\Cloud\Cloud\bin\Release\Tsst.exe
+C:\Users\piotr\Desktop\Nowy folder (4)\tsst1\Cloud\Cloud\bin\Release\Tsst.pdb
+C:\Users\piotr\Desktop\Nowy folder (4)\tsst1\Cloud\Cloud\obj\Release\Cloud.Form1.resources
+C:\Users\piotr\Desktop\Nowy folder (4)\tsst1\Cloud\Cloud\obj\Release\Tsst.Properties.Resources.resources
+C:\Users\piotr\Desktop\Nowy folder (4)\tsst1\Cloud\Cloud\obj\Release\Cloud.csproj.GenerateResource.cache
+C:\Users\piotr\Desktop\Nowy folder (4)\tsst1\Cloud\Cloud\obj\Release\Tsst.exe
+C:\Users\piotr\Desktop\Nowy folder (4)\tsst1\Cloud\Cloud\obj\Release\Tsst.pdb

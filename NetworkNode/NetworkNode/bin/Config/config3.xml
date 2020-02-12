@@ -1,0 +1,7 @@
+<Config>
+ <managerIP>178.167.34.0</managerIP>
+ <managerPort>3</managerPort>
+ <nodeName>R3</nodeName>
+ <cloudIP>178.167.34.0</cloudIP>
+ <cloudPort>5</cloudPort>
+</Config>

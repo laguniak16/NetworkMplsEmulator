@@ -1,0 +1,11 @@
+<Config>
+    <connection1>node1=H1 port1=111 node2=H2 port2=101 status=WORKING</connection1>
+    <connection2>node1=R1 port1=121 node2=R1 port2=116 status=WORKING</connection2>
+    <connection3>node1=R1 port1=121 node2=R1 port2=121 status=WORKING</connection3>
+    <connection4>node1=R1 port1=111 node2=R1 port2=125 status=WORKING</connection4>
+    <connection5>node1=R1 port1=111 node2=R1 port2=133 status=WORKING</connection5>
+    <connection6>node1=R1 port1=111 node2=R1 port2=142 status=WORKING</connection6>
+    <connection7>node1=R1 port1=111 node2=R1 port2=121 status=WORKING</connection7>
+    <connection8>node1=R1 port1=111 node2=R1 port2=134 status=WORKING</connection8>
+    <connection9>node1=R1 port1=111 node2=R1 port2=145 status=WORKING</connection9>
+</Config>

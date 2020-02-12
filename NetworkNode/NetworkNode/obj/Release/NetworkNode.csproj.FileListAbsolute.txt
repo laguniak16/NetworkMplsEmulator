@@ -1,0 +1,24 @@
+C:\Users\Joseph\Documents\GitHub\tsst\NetworkNode\NetworkNode\bin\Release\WindowsFormsApp1.exe.config
+C:\Users\Joseph\Documents\GitHub\tsst\NetworkNode\NetworkNode\bin\Release\WindowsFormsApp1.exe
+C:\Users\Joseph\Documents\GitHub\tsst\NetworkNode\NetworkNode\bin\Release\WindowsFormsApp1.pdb
+C:\Users\Joseph\Documents\GitHub\tsst\NetworkNode\NetworkNode\obj\Release\Router.Form1.resources
+C:\Users\Joseph\Documents\GitHub\tsst\NetworkNode\NetworkNode\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Joseph\Documents\GitHub\tsst\NetworkNode\NetworkNode\obj\Release\NetworkNode.csproj.GenerateResource.cache
+C:\Users\Joseph\Documents\GitHub\tsst\NetworkNode\NetworkNode\obj\Release\WindowsFormsApp1.exe
+C:\Users\Joseph\Documents\GitHub\tsst\NetworkNode\NetworkNode\obj\Release\WindowsFormsApp1.pdb
+C:\Users\Mateusz\Desktop\To nowe Tsst\tsst\NetworkNode\NetworkNode\bin\Release\WindowsFormsApp1.exe.config
+C:\Users\Mateusz\Desktop\To nowe Tsst\tsst\NetworkNode\NetworkNode\bin\Release\WindowsFormsApp1.exe
+C:\Users\Mateusz\Desktop\To nowe Tsst\tsst\NetworkNode\NetworkNode\bin\Release\WindowsFormsApp1.pdb
+C:\Users\Mateusz\Desktop\To nowe Tsst\tsst\NetworkNode\NetworkNode\obj\Release\Router.Form1.resources
+C:\Users\Mateusz\Desktop\To nowe Tsst\tsst\NetworkNode\NetworkNode\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Mateusz\Desktop\To nowe Tsst\tsst\NetworkNode\NetworkNode\obj\Release\NetworkNode.csproj.GenerateResource.cache
+C:\Users\Mateusz\Desktop\To nowe Tsst\tsst\NetworkNode\NetworkNode\obj\Release\WindowsFormsApp1.exe
+C:\Users\Mateusz\Desktop\To nowe Tsst\tsst\NetworkNode\NetworkNode\obj\Release\WindowsFormsApp1.pdb
+C:\Users\piotr\Desktop\Nowy folder (4)\tsst1\NetworkNode\NetworkNode\bin\Release\WindowsFormsApp1.exe.config
+C:\Users\piotr\Desktop\Nowy folder (4)\tsst1\NetworkNode\NetworkNode\bin\Release\WindowsFormsApp1.exe
+C:\Users\piotr\Desktop\Nowy folder (4)\tsst1\NetworkNode\NetworkNode\bin\Release\WindowsFormsApp1.pdb
+C:\Users\piotr\Desktop\Nowy folder (4)\tsst1\NetworkNode\NetworkNode\obj\Release\Router.Form1.resources
+C:\Users\piotr\Desktop\Nowy folder (4)\tsst1\NetworkNode\NetworkNode\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\piotr\Desktop\Nowy folder (4)\tsst1\NetworkNode\NetworkNode\obj\Release\NetworkNode.csproj.GenerateResource.cache
+C:\Users\piotr\Desktop\Nowy folder (4)\tsst1\NetworkNode\NetworkNode\obj\Release\WindowsFormsApp1.exe
+C:\Users\piotr\Desktop\Nowy folder (4)\tsst1\NetworkNode\NetworkNode\obj\Release\WindowsFormsApp1.pdb

@@ -1,0 +1,43 @@
+<Config>
+  <R1>
+    <route1>inPort=111 outPort=113 inLabel=11 outLabel=14 newLabel=- labelaction=SWAP operationID=1</route1>
+    <route2>inPort=111 outPort=112 inLabel=12 outLabel=12 newLabel=- labelaction=SWAP operationID=2</route2>
+    <route3>inPort=112 outPort=111 inLabel=13 outLabel=12 newLabel=- labelaction=SWAP operationID=3</route3>                                         
+    <route4>inPort=112 outPort=111 inLabel=18 outLabel=13 newLabel=- labelaction=SWAP operationID=4</route4>
+    <route5>inPort=113 outPort=111 inLabel=15 outLabel=14 newLabel=- labelaction=SWAP operationID=5</route5>
+  </R1>
+  <R2>
+    <route1>inPort=123 outPort=122 inLabel=13 outLabel=11 newLabel=31 labelaction=PUSH operationID=1</route1>
+    <route2>inPort=121 outPort=122 inLabel=12 outLabel=20 newLabel=- labelaction=SWAP operationID=2</route2>
+    <route3>inPort=123 outPort=122 inLabel=12 outLabel=14 newLabel=31 labelaction=PUSH operationID=3</route3>
+    <route4>inPort=122 outPort=- inLabel=34 outLabel=- newLabel=- labelaction=POP operationID=4</route4>
+    <route5>inPort=122 outPort=121 inLabel=16 outLabel=15 newLabel=- labelaction=SWAP operationID=5</route5>
+    <route6>inPort=122 outPort=121 inLabel=18 outLabel=16 newLabel=- labelaction=SWAP operationID=6</route6>
+    <route7>inPort=122 outPort=123 inLabel=15 outLabel=17 newLabel=- labelaction=SWAP operationID=7</route7>
+    <route8>inPort=122 outPort=123 inLabel=17 outLabel=18 newLabel=- labelaction=SWAP operationID=8</route8>
+ </R2>
+ <R3>
+    <route1>inPort=131 outPort=- inLabel=32 outLabel=- newLabel=- labelaction=POP operationID=1</route1>
+    <route2>inPort=131 outPort=132 inLabel=13 outLabel=11 newLabel=- labelaction=SWAP operationID=2</route2>
+    <route3>inPort=131 outPort=132 inLabel=11 outLabel=12 newLabel=- labelaction=SWAP operationID=3</route3>
+    <route4>inPort=131 outPort=133 inLabel=12 outLabel=11 newLabel=- labelaction=SWAP operationID=4</route4>
+    <route5>inPort=131 outPort=133 inLabel=14 outLabel=14 newLabel=- labelaction=SWAP operationID=5</route5>
+    <route6>inPort=132 outPort=131 inLabel=15 outLabel=16 newLabel=33 labelaction=PUSH operationID=6</route6>
+    <route7>inPort=133 outPort=131 inLabel=17 outLabel=18 newLabel=33 labelaction=PUSH operationID=7</route7>
+    <route8>inPort=133 outPort=131 inLabel=18 outLabel=17 newLabel=33 labelaction=PUSH operationID=8</route8>
+    <route9>inPort=131 outPort=132 inLabel=21 outLabel=17 newLabel=- labelaction=SWAP operationID=9</route9>
+ </R3>
+ <R4>
+    <route1>inPort=141 outPort=143 inLabel=14 outLabel=11 newLabel=- labelaction=SWAP operationID=1</route1>
+    <route2>inPort=143 outPort=142 inLabel=12 outLabel=13 newLabel=- labelaction=SWAP operationID=2</route2>
+    <route3>inPort=143 outPort=142 inLabel=11 outLabel=12 newLabel=- labelaction=SWAP operationID=3</route3>
+    <route4>inPort=142 outPort=141 inLabel=17 outLabel=12 newLabel=- labelaction=SWAP operationID=4</route4>
+    <route5>inPort=142 outPort=141 inLabel=18 outLabel=13 newLabel=- labelaction=SWAP operationID=5</route5>
+    <route6>inPort=143 outPort=141 inLabel=13 outLabel=15 newLabel=- labelaction=SWAP operationID=6</route6>
+ </R4>
+ <R5>
+    <route1>inPort=151 outPort=152 inLabel=31 outLabel=32 newLabel=- labelaction=SWAP operationID=1</route1>
+    <route2>inPort=152 outPort=151 inLabel=33 outLabel=34 newLabel=- labelaction=SWAP operationID=2</route2>
+    <route3>inPort=151 outPort=152 inLabel=20 outLabel=21 newLabel=- labelaction=SWAP operationID=3</route3>	
+ </R5>
+</Config>

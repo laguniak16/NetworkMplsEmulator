@@ -1,0 +1,43 @@
+E:\Visual C#\TSST_GUI\Cloud\Cloud\Cloud\bin\Debug\Tsst.exe.config
+E:\Visual C#\TSST_GUI\Cloud\Cloud\Cloud\bin\Debug\Tsst.exe
+E:\Visual C#\TSST_GUI\Cloud\Cloud\Cloud\bin\Debug\Tsst.pdb
+E:\Visual C#\TSST_GUI\Cloud\Cloud\Cloud\obj\Debug\Cloud.csprojAssemblyReference.cache
+E:\Visual C#\TSST_GUI\Cloud\Cloud\Cloud\obj\Debug\Tsst.Form1.resources
+E:\Visual C#\TSST_GUI\Cloud\Cloud\Cloud\obj\Debug\Tsst.Properties.Resources.resources
+E:\Visual C#\TSST_GUI\Cloud\Cloud\Cloud\obj\Debug\Cloud.csproj.GenerateResource.cache
+E:\Visual C#\TSST_GUI\Cloud\Cloud\Cloud\obj\Debug\Tsst.exe
+E:\Visual C#\TSST_GUI\Cloud\Cloud\Cloud\obj\Debug\Tsst.pdb
+C:\Users\Mateusz\Desktop\To nowe Tsst\tsst\Cloud\Cloud\bin\Debug\Tsst.exe.config
+C:\Users\Mateusz\Desktop\To nowe Tsst\tsst\Cloud\Cloud\bin\Debug\Tsst.exe
+C:\Users\Mateusz\Desktop\To nowe Tsst\tsst\Cloud\Cloud\bin\Debug\Tsst.pdb
+C:\Users\Mateusz\Desktop\To nowe Tsst\tsst\Cloud\Cloud\obj\Debug\Cloud.csprojAssemblyReference.cache
+C:\Users\Mateusz\Desktop\To nowe Tsst\tsst\Cloud\Cloud\obj\Debug\Cloud.Form1.resources
+C:\Users\Mateusz\Desktop\To nowe Tsst\tsst\Cloud\Cloud\obj\Debug\Tsst.Properties.Resources.resources
+C:\Users\Mateusz\Desktop\To nowe Tsst\tsst\Cloud\Cloud\obj\Debug\Cloud.csproj.GenerateResource.cache
+C:\Users\Mateusz\Desktop\To nowe Tsst\tsst\Cloud\Cloud\obj\Debug\Tsst.exe
+C:\Users\Mateusz\Desktop\To nowe Tsst\tsst\Cloud\Cloud\obj\Debug\Tsst.pdb
+E:\GitHub\tsst\Cloud\Cloud\bin\Debug\Tsst.exe.config
+E:\GitHub\tsst\Cloud\Cloud\bin\Debug\Tsst.exe
+E:\GitHub\tsst\Cloud\Cloud\bin\Debug\Tsst.pdb
+E:\GitHub\tsst\Cloud\Cloud\obj\Debug\Cloud.Form1.resources
+E:\GitHub\tsst\Cloud\Cloud\obj\Debug\Tsst.Properties.Resources.resources
+E:\GitHub\tsst\Cloud\Cloud\obj\Debug\Cloud.csproj.GenerateResource.cache
+E:\GitHub\tsst\Cloud\Cloud\obj\Debug\Tsst.exe
+E:\GitHub\tsst\Cloud\Cloud\obj\Debug\Tsst.pdb
+C:\Users\Joseph\Documents\GitHub\tsst\Cloud\Cloud\bin\Debug\Tsst.exe.config
+C:\Users\Joseph\Documents\GitHub\tsst\Cloud\Cloud\bin\Debug\Tsst.exe
+C:\Users\Joseph\Documents\GitHub\tsst\Cloud\Cloud\bin\Debug\Tsst.pdb
+C:\Users\Joseph\Documents\GitHub\tsst\Cloud\Cloud\obj\Debug\Cloud.Form1.resources
+C:\Users\Joseph\Documents\GitHub\tsst\Cloud\Cloud\obj\Debug\Tsst.Properties.Resources.resources
+C:\Users\Joseph\Documents\GitHub\tsst\Cloud\Cloud\obj\Debug\Cloud.csproj.GenerateResource.cache
+C:\Users\Joseph\Documents\GitHub\tsst\Cloud\Cloud\obj\Debug\Tsst.exe
+C:\Users\Joseph\Documents\GitHub\tsst\Cloud\Cloud\obj\Debug\Tsst.pdb
+E:\GitHub\tsst\Cloud\Cloud\obj\Debug\Cloud.csprojAssemblyReference.cache
+C:\Users\piotr\Desktop\Nowy folder (4)\tsst1\Cloud\Cloud\bin\Debug\Tsst.exe.config
+C:\Users\piotr\Desktop\Nowy folder (4)\tsst1\Cloud\Cloud\bin\Debug\Tsst.exe
+C:\Users\piotr\Desktop\Nowy folder (4)\tsst1\Cloud\Cloud\bin\Debug\Tsst.pdb
+C:\Users\piotr\Desktop\Nowy folder (4)\tsst1\Cloud\Cloud\obj\Debug\Cloud.Form1.resources
+C:\Users\piotr\Desktop\Nowy folder (4)\tsst1\Cloud\Cloud\obj\Debug\Tsst.Properties.Resources.resources
+C:\Users\piotr\Desktop\Nowy folder (4)\tsst1\Cloud\Cloud\obj\Debug\Cloud.csproj.GenerateResource.cache
+C:\Users\piotr\Desktop\Nowy folder (4)\tsst1\Cloud\Cloud\obj\Debug\Tsst.exe
+C:\Users\piotr\Desktop\Nowy folder (4)\tsst1\Cloud\Cloud\obj\Debug\Tsst.pdb

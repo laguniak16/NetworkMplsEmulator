@@ -1,0 +1,61 @@
+C:\Users\Mateusz\Desktop\manag\Man\Man\obj\Debug\Man.csprojAssemblyReference.cache
+C:\Users\Mateusz\Desktop\manag\Man\Man\obj\Debug\Man.Form1.resources
+C:\Users\Mateusz\Desktop\manag\Man\Man\obj\Debug\Man.Properties.Resources.resources
+C:\Users\Mateusz\Desktop\manag\Man\Man\obj\Debug\Man.csproj.GenerateResource.cache
+C:\Users\Mateusz\Desktop\manag\Man\Man\bin\Debug\Man.exe.config
+C:\Users\Mateusz\Desktop\manag\Man\Man\bin\Debug\Man.exe
+C:\Users\Mateusz\Desktop\manag\Man\Man\bin\Debug\Man.pdb
+C:\Users\Mateusz\Desktop\manag\Man\Man\obj\Debug\Man.exe
+C:\Users\Mateusz\Desktop\manag\Man\Man\obj\Debug\Man.pdb
+E:\Visual C#\TSST_GUI\manag\Man\Man\bin\Debug\Man.exe.config
+E:\Visual C#\TSST_GUI\manag\Man\Man\bin\Debug\Man.exe
+E:\Visual C#\TSST_GUI\manag\Man\Man\bin\Debug\Man.pdb
+E:\Visual C#\TSST_GUI\manag\Man\Man\obj\Debug\Man.csprojAssemblyReference.cache
+E:\Visual C#\TSST_GUI\manag\Man\Man\obj\Debug\Man.Form1.resources
+E:\Visual C#\TSST_GUI\manag\Man\Man\obj\Debug\Man.Properties.Resources.resources
+E:\Visual C#\TSST_GUI\manag\Man\Man\obj\Debug\Man.csproj.GenerateResource.cache
+E:\Visual C#\TSST_GUI\manag\Man\Man\obj\Debug\Man.exe
+E:\Visual C#\TSST_GUI\manag\Man\Man\obj\Debug\Man.pdb
+E:\Visual C#\TSST_GUI\Manager\Manager\Manager\bin\Debug\Manager.exe.config
+E:\Visual C#\TSST_GUI\Manager\Manager\Manager\bin\Debug\Manager.exe
+E:\Visual C#\TSST_GUI\Manager\Manager\Manager\bin\Debug\Manager.pdb
+E:\Visual C#\TSST_GUI\Manager\Manager\Manager\obj\Debug\Manager.csprojAssemblyReference.cache
+E:\Visual C#\TSST_GUI\Manager\Manager\Manager\obj\Debug\Man.Form1.resources
+E:\Visual C#\TSST_GUI\Manager\Manager\Manager\obj\Debug\Manager.Properties.Resources.resources
+E:\Visual C#\TSST_GUI\Manager\Manager\Manager\obj\Debug\Manager.csproj.GenerateResource.cache
+E:\Visual C#\TSST_GUI\Manager\Manager\Manager\obj\Debug\Manager.exe
+E:\Visual C#\TSST_GUI\Manager\Manager\Manager\obj\Debug\Manager.pdb
+E:\GitHub\tsst\Manager\Manager\bin\Debug\Manager.exe.config
+E:\GitHub\tsst\Manager\Manager\bin\Debug\Manager.exe
+E:\GitHub\tsst\Manager\Manager\bin\Debug\Manager.pdb
+E:\GitHub\tsst\Manager\Manager\obj\Debug\Manager.Form1.resources
+E:\GitHub\tsst\Manager\Manager\obj\Debug\Manager.Properties.Resources.resources
+E:\GitHub\tsst\Manager\Manager\obj\Debug\Manager.csproj.GenerateResource.cache
+E:\GitHub\tsst\Manager\Manager\obj\Debug\Manager.exe
+E:\GitHub\tsst\Manager\Manager\obj\Debug\Manager.pdb
+C:\Users\Mateusz\Desktop\To nowe Tsst\tsst\Manager\Manager\bin\Debug\Manager.exe.config
+C:\Users\Mateusz\Desktop\To nowe Tsst\tsst\Manager\Manager\bin\Debug\Manager.exe
+C:\Users\Mateusz\Desktop\To nowe Tsst\tsst\Manager\Manager\bin\Debug\Manager.pdb
+C:\Users\Mateusz\Desktop\To nowe Tsst\tsst\Manager\Manager\obj\Debug\Manager.csprojAssemblyReference.cache
+C:\Users\Mateusz\Desktop\To nowe Tsst\tsst\Manager\Manager\obj\Debug\Manager.Form1.resources
+C:\Users\Mateusz\Desktop\To nowe Tsst\tsst\Manager\Manager\obj\Debug\Manager.Properties.Resources.resources
+C:\Users\Mateusz\Desktop\To nowe Tsst\tsst\Manager\Manager\obj\Debug\Manager.csproj.GenerateResource.cache
+C:\Users\Mateusz\Desktop\To nowe Tsst\tsst\Manager\Manager\obj\Debug\Manager.exe
+C:\Users\Mateusz\Desktop\To nowe Tsst\tsst\Manager\Manager\obj\Debug\Manager.pdb
+C:\Users\Joseph\Documents\GitHub\tsst\Manager\Manager\bin\Debug\Manager.exe.config
+C:\Users\Joseph\Documents\GitHub\tsst\Manager\Manager\bin\Debug\Manager.exe
+C:\Users\Joseph\Documents\GitHub\tsst\Manager\Manager\bin\Debug\Manager.pdb
+C:\Users\Joseph\Documents\GitHub\tsst\Manager\Manager\obj\Debug\Manager.Form1.resources
+C:\Users\Joseph\Documents\GitHub\tsst\Manager\Manager\obj\Debug\Manager.Properties.Resources.resources
+C:\Users\Joseph\Documents\GitHub\tsst\Manager\Manager\obj\Debug\Manager.csproj.GenerateResource.cache
+C:\Users\Joseph\Documents\GitHub\tsst\Manager\Manager\obj\Debug\Manager.exe
+C:\Users\Joseph\Documents\GitHub\tsst\Manager\Manager\obj\Debug\Manager.pdb
+C:\Users\Joseph\Documents\GitHub\tsst\Manager\Manager\obj\Debug\Manager.csprojAssemblyReference.cache
+C:\Users\piotr\Desktop\Nowy folder (4)\tsst1\Manager\Manager\obj\Debug\Manager.Form1.resources
+C:\Users\piotr\Desktop\Nowy folder (4)\tsst1\Manager\Manager\obj\Debug\Manager.Properties.Resources.resources
+C:\Users\piotr\Desktop\Nowy folder (4)\tsst1\Manager\Manager\obj\Debug\Manager.csproj.GenerateResource.cache
+C:\Users\piotr\Desktop\Nowy folder (4)\tsst1\Manager\Manager\obj\Debug\Manager.exe
+C:\Users\piotr\Desktop\Nowy folder (4)\tsst1\Manager\Manager\obj\Debug\Manager.pdb
+C:\Users\piotr\Desktop\Nowy folder (4)\tsst1\Manager\Manager\bin\Debug\Manager.exe.config
+C:\Users\piotr\Desktop\Nowy folder (4)\tsst1\Manager\Manager\bin\Debug\Manager.exe
+C:\Users\piotr\Desktop\Nowy folder (4)\tsst1\Manager\Manager\bin\Debug\Manager.pdb

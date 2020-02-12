@@ -1,0 +1,72 @@
+C:\Users\Mateusz\Desktop\networknode\nd\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Mateusz\Desktop\networknode\nd\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Mateusz\Desktop\networknode\nd\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Mateusz\Desktop\networknode\nd\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Mateusz\Desktop\networknode\nd\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Mateusz\Desktop\networknode\nd\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Mateusz\Desktop\networknode\nd\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Mateusz\Desktop\networknode\nd\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Mateusz\Desktop\networknode\nd\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Mateusz\Desktop\client\nd\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Mateusz\Desktop\client\nd\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Mateusz\Desktop\client\nd\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Mateusz\Desktop\client\nd\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Mateusz\Desktop\client\nd\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Mateusz\Desktop\client\nd\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Mateusz\Desktop\client\nd\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Mateusz\Desktop\client\nd\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Mateusz\Desktop\client\nd\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Visual C#\TSST_GUI\Client\Client\Client\Client\bin\Debug\WindowsFormsApp1.exe.config
+E:\Visual C#\TSST_GUI\Client\Client\Client\Client\bin\Debug\WindowsFormsApp1.exe
+E:\Visual C#\TSST_GUI\Client\Client\Client\Client\bin\Debug\WindowsFormsApp1.pdb
+E:\Visual C#\TSST_GUI\Client\Client\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+E:\Visual C#\TSST_GUI\Client\Client\Client\Client\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\Visual C#\TSST_GUI\Client\Client\Client\Client\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Visual C#\TSST_GUI\Client\Client\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+E:\Visual C#\TSST_GUI\Client\Client\Client\Client\obj\Debug\WindowsFormsApp1.exe
+E:\Visual C#\TSST_GUI\Client\Client\Client\Client\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Mateusz\Desktop\To nowe Tsst\tsst\Client\Client\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Mateusz\Desktop\To nowe Tsst\tsst\Client\Client\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Mateusz\Desktop\To nowe Tsst\tsst\Client\Client\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Mateusz\Desktop\To nowe Tsst\tsst\Client\Client\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Mateusz\Desktop\To nowe Tsst\tsst\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Mateusz\Desktop\To nowe Tsst\tsst\Client\Client\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Mateusz\Desktop\To nowe Tsst\tsst\Client\Client\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Mateusz\Desktop\To nowe Tsst\tsst\Client\Client\obj\Debug\Client.Form1.resources
+E:\GitHub\tsst\Client\Client\bin\Debug\WindowsFormsApp1.exe.config
+E:\GitHub\tsst\Client\Client\bin\Debug\WindowsFormsApp1.exe
+E:\GitHub\tsst\Client\Client\bin\Debug\WindowsFormsApp1.pdb
+E:\GitHub\tsst\Client\Client\obj\Debug\Client.Form1.resources
+E:\GitHub\tsst\Client\Client\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\GitHub\tsst\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+E:\GitHub\tsst\Client\Client\obj\Debug\WindowsFormsApp1.exe
+E:\GitHub\tsst\Client\Client\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Joseph\Documents\GitHub\tsst\Client\Client\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Joseph\Documents\GitHub\tsst\Client\Client\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Joseph\Documents\GitHub\tsst\Client\Client\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Joseph\Documents\GitHub\tsst\Client\Client\obj\Debug\Client.Form1.resources
+C:\Users\Joseph\Documents\GitHub\tsst\Client\Client\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Joseph\Documents\GitHub\tsst\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Joseph\Documents\GitHub\tsst\Client\Client\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Joseph\Documents\GitHub\tsst\Client\Client\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Joseph\Documents\GitHub\tsst\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Mateusz\Desktop\To nowe Tsst\tsst\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+E:\GitHub\tsst\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\piotr\Desktop\tsst\Client\Client\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\piotr\Desktop\tsst\Client\Client\bin\Debug\WindowsFormsApp1.exe
+C:\Users\piotr\Desktop\tsst\Client\Client\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\piotr\Desktop\tsst\Client\Client\obj\Debug\Client.Form1.resources
+C:\Users\piotr\Desktop\tsst\Client\Client\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\piotr\Desktop\tsst\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\piotr\Desktop\tsst\Client\Client\obj\Debug\WindowsFormsApp1.exe
+C:\Users\piotr\Desktop\tsst\Client\Client\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\piotr\Desktop\tsst\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\piotr\Desktop\Nowy folder (4)\tsst1\Client\Client\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\piotr\Desktop\Nowy folder (4)\tsst1\Client\Client\bin\Debug\WindowsFormsApp1.exe
+C:\Users\piotr\Desktop\Nowy folder (4)\tsst1\Client\Client\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\piotr\Desktop\Nowy folder (4)\tsst1\Client\Client\obj\Debug\Client.Form1.resources
+C:\Users\piotr\Desktop\Nowy folder (4)\tsst1\Client\Client\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\piotr\Desktop\Nowy folder (4)\tsst1\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\piotr\Desktop\Nowy folder (4)\tsst1\Client\Client\obj\Debug\WindowsFormsApp1.exe
+C:\Users\piotr\Desktop\Nowy folder (4)\tsst1\Client\Client\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\piotr\Desktop\Nowy folder (4)\tsst1\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
