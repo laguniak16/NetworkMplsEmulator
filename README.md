@@ -5,7 +5,7 @@ Zadaniem menadzera jest ustawienie tablic kierowania pakietów w routerach po ur
 
 ![](images/mena.png)
 
-Chmura kablowa odpowiada za wszystkie połączenia między routerami, oraz między routerami a hostami.
+Chmura kablowa odpowiada za wszystkie połączenia między routerami oraz między routerami a hostami.
 
 ![](images/Cloud.png)
 
