@@ -1,18 +1,18 @@
 # NetworkMplsEmulator
-Jest to emulator sieci posiadający 4 osobne komponenty takie jak Menadzer,Chmura kablowa, Host oraz Router.
+Emulator sieci MPLS.
 
-Zadaniem menadzera jest ustawienie tablic kierowania pakietów w routerach po uruchomianiu emulatora.
+Menadzer
 
 ![](images/mena.png)
 
-Chmura kablowa odpowiada za wszystkie połączenia między routerami oraz między routerami a hostami.
+Chmura kablowa
 
 ![](images/Cloud.png)
 
-Działanie routera polega na odebraniu pakietu i przekierowaniu go na odpowiedni port wyjściowy.
+Router
 
 ![](images/router.png)
 
-Host ma za zadanie odebranie lub wysłanie wiadomości do innego hosta.
+Host
 
 ![](images/host.png)
